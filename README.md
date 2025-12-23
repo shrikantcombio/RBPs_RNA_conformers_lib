@@ -1,5 +1,9 @@
 # RNA Binding Protein Specific RNA Dinucleotide Conformers
 
+# Update
+
+**Including better resolution dataset (<=2.5 Å)**
+
 ## Summary
 - We have utilized the non-redundant protein-RNA docking benchmark version 3.0 (PRDBv3.0), comprising 288 protein-RNA complexes from PDB with ≤35% sequence identity.  
 - Analyzed 7,607 dinucleotides from these protein-RNA complexes using twelve geometric parameters to study RNA conformational states.  
