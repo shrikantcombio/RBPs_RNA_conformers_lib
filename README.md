@@ -31,4 +31,4 @@
 protein-RNA recognition, torsion angle, RNA dinucleotide conformation, RNA conformational landscape, RNA conformers library.
 
 ## Citation
-Shri Kant, Savan Masipeddi, and Ranjit Prasad Bahadur. Deciphering conformational preferences of RNA in protein-RNA recognition.
+Shri Kant, Savan Masipeddi, and Ranjit Prasad Bahadur. Deciphering conformational preferences of RNA in protein-RNA recognition. BioRxiv: [https://doi.org/10.64898/2026.05.14.725147](https://doi.org/10.64898/2026.05.14.725147)
